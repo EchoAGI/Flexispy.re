@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Export-Package: com.google.gson;uses:="com.google.gson.reflect,com.goo
+ gle.gson.stream";version="2.7.0",com.google.gson.annotations;version=
+ "2.7.0",com.google.gson.reflect;version="2.7.0",com.google.gson.strea
+ m;version="2.7.0"
+Dex-Location: classes.dex
+Built-By: inder
+Tool: Bnd-3.1.0.201512181341
+Bundle-Name: Gson
+Created-By: 1.8.0_91 (Oracle Corporation) + dx 1.7
+Bundle-RequiredExecutionEnvironment: J2SE-1.5, JavaSE-1.6, JavaSE-1.7,
+  JavaSE-1.8
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Bundle-Vendor: Google Gson Project
+Bundle-ContactAddress: https://github.com/google/gson
+Build-Jdk: 1.8.0_91
+Bundle-Version: 2.7.0
+Bnd-LastModified: 1465948546904
+Bundle-ManifestVersion: 2
+Bundle-Description: Gson JSON library
+Bundle-SymbolicName: com.google.gson
+Import-Package: com.google.gson.annotations
+Archiver-Version: Plexus Archiver
+

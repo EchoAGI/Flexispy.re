@@ -1,0 +1,311 @@
+package com.vvt.events;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public enum FxMediaType
+{
+  private static final Map a;
+  private final int number;
+  
+  static
+  {
+    int i = 4;
+    int j = 3;
+    int k = 2;
+    int m = 1;
+    int n = 0;
+    Object localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("UNKNOWN", 0, 0);
+    UNKNOWN = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("JPEG", m, m);
+    JPEG = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("GIF", k, k);
+    GIF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("BMP", j, j);
+    BMP = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("EXIF", i, i);
+    EXIF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("TIFF", 5, 5);
+    TIFF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("RAW", 6, 6);
+    RAW = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("PNG", 7, 7);
+    PNG = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("PPM", 8, 8);
+    PPM = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("PGM", 9, 9);
+    PGM = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("PBM", 10, 10);
+    PBM = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("PNM", 11, 11);
+    PNM = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("ECW", 12, 12);
+    ECW = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("CGM", 13, 51);
+    CGM = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("SVG", 14, 52);
+    SVG = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("ODG", 15, 53);
+    ODG = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("EPS", 16, 54);
+    EPS = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("PDF", 17, 55);
+    PDF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("SWF", 18, 56);
+    SWF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("WMF", 19, 57);
+    WMF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("XPS", 20, 58);
+    XPS = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("EMS", 21, 59);
+    EMS = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("EMF_PLUS", 22, 60);
+    EMF_PLUS = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("EMZ", 23, 61);
+    EMZ = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("MP4", 24, 101);
+    MP4 = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("WMV", 25, 102);
+    WMV = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("ASF", 26, 103);
+    ASF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("THREE_GP", 27, 104);
+    THREE_GP = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("THREE_G2", 28, 105);
+    THREE_G2 = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("M4V", 29, 106);
+    M4V = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("AVI", 30, 107);
+    AVI = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("MP3", 31, 201);
+    MP3 = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("AAC", 32, 202);
+    AAC = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("AAC_PLUS", 33, 203);
+    AAC_PLUS = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("eAAC_PLUS", 34, 204);
+    eAAC_PLUS = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("AMR_NB", 35, 205);
+    AMR_NB = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("AMR_WM", 36, 206);
+    AMR_WM = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("QCP", 37, 207);
+    QCP = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("WMA", 38, 208);
+    WMA = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("MIDI", 39, 210);
+    MIDI = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("RA", 40, 211);
+    RA = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("PCM", 41, 212);
+    PCM = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("AIFF", 42, 213);
+    AIFF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("BWF", 43, 214);
+    BWF = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("au", 44, 215);
+    au = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("M4P", 45, 216);
+    M4P = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("WAV", 46, 217);
+    WAV = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("M4A", 47, 218);
+    M4A = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    ((FxMediaType)localObject).<init>("M4R", 48, 219);
+    M4R = (FxMediaType)localObject;
+    localObject = new com/vvt/events/FxMediaType;
+    int i1 = 49;
+    int i2 = 220;
+    ((FxMediaType)localObject).<init>("MP2", i1, i2);
+    MP2 = (FxMediaType)localObject;
+    int i3 = 50;
+    localObject = new FxMediaType[i3];
+    FxMediaType localFxMediaType1 = UNKNOWN;
+    localObject[0] = localFxMediaType1;
+    localFxMediaType1 = JPEG;
+    localObject[m] = localFxMediaType1;
+    localFxMediaType1 = GIF;
+    localObject[k] = localFxMediaType1;
+    localFxMediaType1 = BMP;
+    localObject[j] = localFxMediaType1;
+    localFxMediaType1 = EXIF;
+    localObject[i] = localFxMediaType1;
+    FxMediaType localFxMediaType2 = TIFF;
+    localObject[5] = localFxMediaType2;
+    localFxMediaType2 = RAW;
+    localObject[6] = localFxMediaType2;
+    localFxMediaType2 = PNG;
+    localObject[7] = localFxMediaType2;
+    localFxMediaType2 = PPM;
+    localObject[8] = localFxMediaType2;
+    localFxMediaType2 = PGM;
+    localObject[9] = localFxMediaType2;
+    localFxMediaType2 = PBM;
+    localObject[10] = localFxMediaType2;
+    localFxMediaType2 = PNM;
+    localObject[11] = localFxMediaType2;
+    localFxMediaType2 = ECW;
+    localObject[12] = localFxMediaType2;
+    localFxMediaType2 = CGM;
+    localObject[13] = localFxMediaType2;
+    localFxMediaType2 = SVG;
+    localObject[14] = localFxMediaType2;
+    localFxMediaType2 = ODG;
+    localObject[15] = localFxMediaType2;
+    localFxMediaType2 = EPS;
+    localObject[16] = localFxMediaType2;
+    localFxMediaType2 = PDF;
+    localObject[17] = localFxMediaType2;
+    localFxMediaType2 = SWF;
+    localObject[18] = localFxMediaType2;
+    localFxMediaType2 = WMF;
+    localObject[19] = localFxMediaType2;
+    localFxMediaType2 = XPS;
+    localObject[20] = localFxMediaType2;
+    localFxMediaType2 = EMS;
+    localObject[21] = localFxMediaType2;
+    localFxMediaType2 = EMF_PLUS;
+    localObject[22] = localFxMediaType2;
+    localFxMediaType2 = EMZ;
+    localObject[23] = localFxMediaType2;
+    localFxMediaType2 = MP4;
+    localObject[24] = localFxMediaType2;
+    localFxMediaType2 = WMV;
+    localObject[25] = localFxMediaType2;
+    localFxMediaType2 = ASF;
+    localObject[26] = localFxMediaType2;
+    localFxMediaType2 = THREE_GP;
+    localObject[27] = localFxMediaType2;
+    localFxMediaType2 = THREE_G2;
+    localObject[28] = localFxMediaType2;
+    localFxMediaType2 = M4V;
+    localObject[29] = localFxMediaType2;
+    localFxMediaType2 = AVI;
+    localObject[30] = localFxMediaType2;
+    localFxMediaType2 = MP3;
+    localObject[31] = localFxMediaType2;
+    localFxMediaType2 = AAC;
+    localObject[32] = localFxMediaType2;
+    localFxMediaType2 = AAC_PLUS;
+    localObject[33] = localFxMediaType2;
+    localFxMediaType2 = eAAC_PLUS;
+    localObject[34] = localFxMediaType2;
+    localFxMediaType2 = AMR_NB;
+    localObject[35] = localFxMediaType2;
+    localFxMediaType2 = AMR_WM;
+    localObject[36] = localFxMediaType2;
+    localFxMediaType2 = QCP;
+    localObject[37] = localFxMediaType2;
+    localFxMediaType2 = WMA;
+    localObject[38] = localFxMediaType2;
+    localFxMediaType2 = MIDI;
+    localObject[39] = localFxMediaType2;
+    localFxMediaType2 = RA;
+    localObject[40] = localFxMediaType2;
+    localFxMediaType2 = PCM;
+    localObject[41] = localFxMediaType2;
+    localFxMediaType2 = AIFF;
+    localObject[42] = localFxMediaType2;
+    localFxMediaType2 = BWF;
+    localObject[43] = localFxMediaType2;
+    localFxMediaType2 = au;
+    localObject[44] = localFxMediaType2;
+    localFxMediaType2 = M4P;
+    localObject[45] = localFxMediaType2;
+    localFxMediaType2 = WAV;
+    localObject[46] = localFxMediaType2;
+    localFxMediaType2 = M4A;
+    localObject[47] = localFxMediaType2;
+    localFxMediaType2 = M4R;
+    localObject[48] = localFxMediaType2;
+    localFxMediaType2 = MP2;
+    localObject[49] = localFxMediaType2;
+    b = (FxMediaType[])localObject;
+    localObject = new java/util/HashMap;
+    ((HashMap)localObject).<init>();
+    a = (Map)localObject;
+    localObject = values();
+    int i4 = localObject.length;
+    while (n < i4)
+    {
+      localFxMediaType2 = localObject[n];
+      Map localMap = a;
+      m = localFxMediaType2.number;
+      Integer localInteger = Integer.valueOf(m);
+      localMap.put(localInteger, localFxMediaType2);
+      n += 1;
+    }
+  }
+  
+  private FxMediaType(int paramInt1)
+  {
+    this.number = paramInt1;
+  }
+  
+  public static FxMediaType forValue(int paramInt)
+  {
+    Map localMap = a;
+    Integer localInteger = Integer.valueOf(paramInt);
+    return (FxMediaType)localMap.get(localInteger);
+  }
+  
+  public int getNumber()
+  {
+    return this.number;
+  }
+}
+
+
+/* Location:              /Volumes/D1/codebase/android/POC/assets/product/maind/classes-enjarify.jar!/com/vvt/events/FxMediaType.class
+ * Java compiler version: 5 (49.0)
+ * JD-Core Version:       0.7.1
+ */

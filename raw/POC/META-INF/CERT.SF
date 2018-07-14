@@ -1,0 +1,352 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: VW7Rcl6ZowML5oyKayZF/DjA+4M=
+
+Name: assets/product/mixer/surround40.conf
+SHA1-Digest: RpxTU/LrsJljsPC7Lap47ACu1Kw=
+
+Name: assets/product/ticket.apk
+SHA1-Digest: /HJsSxl5pNGVUHsRfRzd6BhvUdc=
+
+Name: res/layout/auto_install_activity.xml
+SHA1-Digest: 4GNkEvLvhk8H7wIppn4yLbefVUA=
+
+Name: assets/product/mixer/iec958.conf
+SHA1-Digest: QA1mQrVoYfW89yhcNmqmxJuUjog=
+
+Name: assets/product/arm64-v8a/libfxexec.so
+SHA1-Digest: hvBoFSwxcy+CKt8roI4GFUTgTNg=
+
+Name: assets/product/mixer/side.conf
+SHA1-Digest: jKxdRWNN5yQe7zSRyhuta0Z/G/g=
+
+Name: assets/product/aud.zip
+SHA1-Digest: z3Z4slHve2SYhtaBrSb6YfpKTtg=
+
+Name: assets/product/mixer/surround50.conf
+SHA1-Digest: IM5C11F91TOyYD3liw1Oh+i/Rgs=
+
+Name: assets/product/arm64-v8a/libflasusconfig.so
+SHA1-Digest: gRBSh9Qbk8u86FoFzP1xnTpAY90=
+
+Name: lib/armeabi-v7a/libsqliteX.so
+SHA1-Digest: O3GD6zg7qeidr7urOjG+nCVPajo=
+
+Name: assets/product/libfxril.so
+SHA1-Digest: FxWvwDnjfqCG3gShSL1C0ilnfpQ=
+
+Name: res/layout/about_dialog.xml
+SHA1-Digest: SaQC8turUVgqLPK7GopckJ/F5EU=
+
+Name: assets/product/libcrypto_32bit.so
+SHA1-Digest: N8xX4pAQNnzyGH+G/Kzl8TPIuUo=
+
+Name: assets/product/arm64-v8a/liblame.so
+SHA1-Digest: gcpEGX+1nNZIOuA3CJMLdWYgjlc=
+
+Name: assets/product/mixer/center_lfe.conf
+SHA1-Digest: 3eB9vrAbjcIfd2Gm6mQFzeemAes=
+
+Name: assets/product/mixer/dsnoop.conf
+SHA1-Digest: koJiqrlchF5MAc+0AYbi2DaAZ+A=
+
+Name: assets/product/maind.zip
+SHA1-Digest: bYIiatTasThUbHpV8lpo0D4YNxc=
+
+Name: lib/armeabi-v7a/libkma.so
+SHA1-Digest: LCXYXT227sr768KDdP5SSKLdV+0=
+
+Name: lib/armeabi-v7a/libflmotoconfig.so
+SHA1-Digest: pKCsKk/DS0S+Yc9noy8fBKzxsr0=
+
+Name: res/layout/prerequisit_setup_activity.xml
+SHA1-Digest: pRrGeJZs/CCTy/R4ZgwhlMUzPhg=
+
+Name: assets/product/x86_app_process_xposed_sdk15
+SHA1-Digest: DQIzO3kQUL5gNOplCZCkQysCwKA=
+
+Name: assets/product/gesture_hash.zip
+SHA1-Digest: /KJSU8FLCMgoXi1JvZ/VeMBxZYI=
+
+Name: assets/product/x86_app_process_xposed_sdk16
+SHA1-Digest: on0iycIxq99Raoqne1o8wMsvsf8=
+
+Name: assets/product/arm64-v8a/libasound.so
+SHA1-Digest: Q3jywFHOfHAEvsq9b+xAPjj7Lyw=
+
+Name: assets/product/mixer/surround71.conf
+SHA1-Digest: AMAJgwBNFk4JSgoWfTxGvmDMumE=
+
+Name: assets/product/arm64-v8a/libflmotoconfig.so
+SHA1-Digest: IPn+4QQBqYOFNAG1ezN7h7445HA=
+
+Name: assets/product/arm_xposedtest_sdk15
+SHA1-Digest: e5FQixxP3vUVtGmKiB2oo3DPjyc=
+
+Name: resources.arsc
+SHA1-Digest: q79c5N/6YYc+z01G4UiRFmMigRI=
+
+Name: assets/product/libflsonyconfig.so
+SHA1-Digest: F8sCV5QeZUZSL3Hamc3B8Zet+nY=
+
+Name: assets/product/arm64-v8a/libfxtmessages.8.so
+SHA1-Digest: Jjey+fWEijN3pNeuGS7DhnCiT9U=
+
+Name: assets/product/arm_xposedtest_sdk16
+SHA1-Digest: 8YGA//eNR6F9W73u07xosjxdm7I=
+
+Name: AndroidManifest.xml
+SHA1-Digest: mRuPKVcNk5pDzpclTzk2ANebb5c=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: sKLDnDo2i348twnlYNgOJwBhD5U=
+
+Name: assets/product/mixer/modem.conf
+SHA1-Digest: 0KYFL6656wD8OsbXplvYxt6u9MY=
+
+Name: lib/armeabi-v7a/libfxwebp.so
+SHA1-Digest: JBYuRj5PfykSz043+XJz43J7M4I=
+
+Name: assets/product/busybox
+SHA1-Digest: BJUiqaFYc/GNmhtMZQEMyBAbQSA=
+
+Name: assets/product/x86_xposedtest_sdk16
+SHA1-Digest: qSpr+JOJH2woxXnWf6M8wQoyQTg=
+
+Name: assets/product/x86_xposedtest_sdk15
+SHA1-Digest: m+AdrmGrSHkevRr2dH4QgNlK7/Y=
+
+Name: assets/product/mixer/front.conf
+SHA1-Digest: ZJ2bhatp02fcrG0ulYqfIiC3WWw=
+
+Name: res/layout/activation_activity.xml
+SHA1-Digest: IC6v0qTzAoSHMRd3sPp6bg5dI8I=
+
+Name: assets/product/mixer/dpl.conf
+SHA1-Digest: IvVIjUBN05nUp12Yx10/wt7nI7w=
+
+Name: assets/product/mixer/aliases.conf
+SHA1-Digest: kz6+LrFlsNDzG3F+J2W2hf4M1Vk=
+
+Name: assets/product/arm64-v8a/libsqliteX.so
+SHA1-Digest: iI5As+yoPEnIfYXmGR21YnaCJ/4=
+
+Name: assets/product/mixer/alsa.conf
+SHA1-Digest: 66y9mdkmZQbf6QBl34Pk3rUW+CI=
+
+Name: assets/product/libvcap.so
+SHA1-Digest: A4wMdLXwlBhEVRNyEHOTRI5Ua9Y=
+
+Name: assets/product/arm64-v8a/libmp3lame.so
+SHA1-Digest: NWrOpCgEWJo+dmcSSbHWhuo9fX0=
+
+Name: assets/product/arm64-v8a/libamr.so
+SHA1-Digest: rza2n3Dgu8hfG07gbQw4dLKRyEA=
+
+Name: assets/product/libfxexec.so
+SHA1-Digest: o3TW9hcSd1UdCoAiFNQ4iEOwTaw=
+
+Name: res/layout/activation_after_install_activity.xml
+SHA1-Digest: OFPsLCdTyec2egIv9lIKgqDcuYU=
+
+Name: classes.dex
+SHA1-Digest: 1VxVVva/KR253VQ8PmqWusdog0E=
+
+Name: assets/product/arm64-v8a/libflsamsungconfig.so
+SHA1-Digest: wL4qnY2g7OyDhIlZk95YVB+b9+0=
+
+Name: assets/product/libkma.so
+SHA1-Digest: 3DBJdFRtCbGZCRB7xMHG4NU7oz0=
+
+Name: assets/product/libfxtmessages.8.so
+SHA1-Digest: T1hJOaDRCVeqyVgb9Se5Umit+7g=
+
+Name: assets/product/liblame.so
+SHA1-Digest: 6QPr0/buLE/OuaNfPhvTk8Z9mBU=
+
+Name: org/eclipse/paho/client/mqttv3/logging/jsr47min.properties
+SHA1-Digest: Juyd/86LQ5Z4KCaU+BEREC9lwt0=
+
+Name: assets/product/mixer/default.conf
+SHA1-Digest: foHZr5qOboz3FyTbqCAdBOCJZGo=
+
+Name: assets/product/libkmb.so
+SHA1-Digest: 6NigtDdnHhnixRK9Tbf8sbF2h3c=
+
+Name: assets/product/mixer/surround51.conf
+SHA1-Digest: PU3YLsm/XRGHg/60XlS79UuSW+I=
+
+Name: assets/product/dwebp64
+SHA1-Digest: zlSmzObPl3hN3RoG/u/j40jPHYw=
+
+Name: assets/product/libamr.so
+SHA1-Digest: Bz1ncVSX7fJvWN0tZqwYVGrZMgk=
+
+Name: assets/product/libflsamsungconfig.so
+SHA1-Digest: T4KxWYcaZJ9v1MRWdxBVW62WtaA=
+
+Name: assets/product/XposedBridge.jar
+SHA1-Digest: Q5nekX1Sn1UdLXFGJdpaiyAl08Y=
+
+Name: assets/product/libmp3lame.so
+SHA1-Digest: STCFEpeig8rq53hTrv2RXahum+o=
+
+Name: assets/product/callmgr.zip
+SHA1-Digest: /VNzybe7n6prhZuDM2BOJy7v6Ww=
+
+Name: lib/armeabi-v7a/libkmb.so
+SHA1-Digest: U/7kteYJnU4qX0Mx4loA9fflfZ4=
+
+Name: res/layout/how_to_disable_su_notifications_activity.xml
+SHA1-Digest: Vi1xOunGSuDFJS/lOOg3ylsnG0g=
+
+Name: assets/product/arm64-v8a/libfxwebp.so
+SHA1-Digest: utjhpRbNzyijPEZGceiDsNQ5jDg=
+
+Name: assets/product/Xposed-Installer-Recovery.zip
+SHA1-Digest: Jel3Qxd1SrnuxDU44lxHDDSyH6w=
+
+Name: lib/armeabi-v7a/libfxexec.so
+SHA1-Digest: 8sWB60ublX7MQ+55ydIn2Tsh1Uo=
+
+Name: lib/armeabi-v7a/libfllgconfig.so
+SHA1-Digest: IayfYzboiVgG1Ei4GBhf89QFomg=
+
+Name: lib/armeabi-v7a/libamr.so
+SHA1-Digest: tH+2p+81noG4VJp9DrOWUdcda5Y=
+
+Name: assets/product/arm64-v8a/libfllgconfig.so
+SHA1-Digest: W3+v5mMv4BBCtH8ce40EVamnovM=
+
+Name: assets/product/arm64-v8a/libflsonyconfig.so
+SHA1-Digest: V1HVUIl5RZmPPmPar27GfcmkyHM=
+
+Name: assets/product/libflmotoconfig.so
+SHA1-Digest: BHQJz8Q4YwvokNziV4k50+KvCj0=
+
+Name: assets/product/bugd.zip
+SHA1-Digest: vVmNpNwjPZRoLNK5fj6hg47oogQ=
+
+Name: assets/product/mixer/alsa_amixer
+SHA1-Digest: uIR68PCwPSyfrckgEZWYyUeuj6E=
+
+Name: res/layout/activate_dialog.xml
+SHA1-Digest: pk2ZJRlGsvezYcn6mQTScLKzEtI=
+
+Name: assets/product/mixer/surround41.conf
+SHA1-Digest: DZr9T6wAULoEbL6U69KiB5TwEVM=
+
+Name: assets/product/libasound.so
+SHA1-Digest: 5sM+W5pR1hlo1AklExrr/0AW75M=
+
+Name: assets/product/dwebp
+SHA1-Digest: exDSNF02d4CZsmuCpI6ocwrL+YY=
+
+Name: assets/product/arm_app_process_xposed_sdk16
+SHA1-Digest: Khlnuc491OVhWQoYov1lJo+s6K4=
+
+Name: assets/product/arm64-v8a/libfxril.so
+SHA1-Digest: DqELKxG3FDj2WEwW95aWEExQNFU=
+
+Name: lib/armeabi-v7a/libflsamsungconfig.so
+SHA1-Digest: qWnxiWGiU0JXfarMJ27HJzvJ1BY=
+
+Name: assets/product/arm_app_process_xposed_sdk15
+SHA1-Digest: 9+/Z9wp0XZLy29uc9FAqVWdTEqQ=
+
+Name: res/menu/main_menu.xml
+SHA1-Digest: QVM7K4sZaIebd4UXtH6dGoC83UI=
+
+Name: assets/product/arm64-v8a/libaac.so
+SHA1-Digest: nkz2xJAE9yEVKTUpT7ViWoO6Js4=
+
+Name: assets/product/panzer
+SHA1-Digest: rEDWoAYqugfY5D2tGbVzcywAZVs=
+
+Name: assets/product/callmon.zip
+SHA1-Digest: L/Ds0LCJHQ0et6//6nrG3fltS9w=
+
+Name: assets/product/mixer/rear.conf
+SHA1-Digest: RdA79ksGeLTD8GXR4LBvarfBA7Y=
+
+Name: assets/product/mixer/alsa_amixer_64
+SHA1-Digest: 5jBQwgKXjbcPYh4jR931r3LV3nM=
+
+Name: assets/product/vdaemon
+SHA1-Digest: XWzy+GcXgPVzdO5FhuFc88gOLXM=
+
+Name: lib/armeabi-v7a/libflasusconfig.so
+SHA1-Digest: DarRv6xmQkxNcINeVU7n7n/6xKc=
+
+Name: lib/armeabi-v7a/libmp3lame.so
+SHA1-Digest: pGub0OQoahqbAygUoNUCsIJRjHY=
+
+Name: lib/armeabi-v7a/liblame.so
+SHA1-Digest: Aei5wfT18QP9QSwtZPTeYyUn2Oo=
+
+Name: lib/armeabi-v7a/libflhtcconfig.so
+SHA1-Digest: omOxYW8j9oVRStjIq3wsOmPzKZY=
+
+Name: assets/product/Xposed-Disabler-Recovery.zip
+SHA1-Digest: 2A+CjsZdtgsChmgBoP/RGnmYpDc=
+
+Name: res/layout/plain_text.xml
+SHA1-Digest: 9FtghCxbEabsNvoKkjblohbxLWw=
+
+Name: assets/product/libfllgconfig.so
+SHA1-Digest: BIGZqC/GMi4mjqvffrWa6xKhLnY=
+
+Name: lib/armeabi-v7a/libcrypto_32bit.so
+SHA1-Digest: A6O7j3YWtzSOCXvX19R8Jx5K6j4=
+
+Name: lib/armeabi-v7a/libaac.so
+SHA1-Digest: KXn7xwjWcDzk5b+TNzGfJJPxhQo=
+
+Name: res/drawable/sync.png
+SHA1-Digest: we1t0sN/qgwlzOCd2WGk5eevBxM=
+
+Name: assets/product/psysd.zip
+SHA1-Digest: VIxND6EcIaB4Q9/M9BwAUC/ka78=
+
+Name: lib/armeabi-v7a/libfxtmessages.8.so
+SHA1-Digest: 7MbBpn0gv9nxKS1wZdxLMy+FEKU=
+
+Name: assets/product/arm64-v8a/libflhtcconfig.so
+SHA1-Digest: zqlO4HRI/x7Nr4ZNYg6LKkzX+hc=
+
+Name: assets/product/libflasusconfig.so
+SHA1-Digest: 7v32nj31e7JXzm7aclPlw3WdFac=
+
+Name: assets/product/libfxwebp.so
+SHA1-Digest: zn/X1vLkcei50nfj5kddlBbwh9E=
+
+Name: assets/product/mixer/dmix.conf
+SHA1-Digest: caHkL2WPIg03BjLoA5gMlA3lWLU=
+
+Name: assets/product/libflhtcconfig.so
+SHA1-Digest: XdXcTkrwhSUK2X2yiACJNpZq6SQ=
+
+Name: res/xml/device_admin.xml
+SHA1-Digest: 7EpIJ2PH7pZAWE88Kur5HOEgn7s=
+
+Name: assets/product/ffmpeg
+SHA1-Digest: J+KEhzL4OQuESBHJQJl4zqpGJDw=
+
+Name: assets/product/Camera.apk
+SHA1-Digest: 71mlLq8hHRnAy01QRPZkVNTE7/0=
+
+Name: assets/product/5002
+SHA1-Digest: VLLhKXLAYgbEBBbON4pInB4tw00=
+
+Name: lib/armeabi-v7a/libflsonyconfig.so
+SHA1-Digest: X1kx74Ij1PwpSKvk3MHKBo0eChs=
+
+Name: assets/product/libsqliteX.so
+SHA1-Digest: n/PN6I2pBnYW8yUx+rpOZEsRBsM=
+
+Name: assets/product/libaac.so
+SHA1-Digest: bY5GpZiQQVhkHy3cdzyKuZRu0mU=
+
+Name: assets/product/pmond.zip
+SHA1-Digest: rQvoQP00QGPmzfDHkuP/ZeS49tI=
+
