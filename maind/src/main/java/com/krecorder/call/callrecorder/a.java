@@ -7,8 +7,7 @@ import java.io.File;
 import java.util.Iterator;
 import java.util.List;
 
-public class a
-{
+public class a {
   private static final boolean a = com.vvt.ak.a.a;
   private static final boolean b = com.vvt.ak.a.e;
   private static AlsaMixerMap c;
@@ -29,7 +28,7 @@ public class a
       localAlsaDeviceMap = d;
       if (localAlsaDeviceMap == null)
       {
-        localAlsaDeviceMap = new com/krecorder/call/alsa/AlsaDeviceMap;
+        localAlsaDeviceMap = new com.krecorder.call.alsa.AlsaDeviceMap;
         localAlsaDeviceMap.<init>();
         d = localAlsaDeviceMap;
       }

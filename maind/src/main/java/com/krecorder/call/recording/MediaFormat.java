@@ -7,41 +7,29 @@ public enum MediaFormat
     int i = 3;
     int j = 2;
     int k = 1;
-    Object localObject = new com/krecorder/call/recording/MediaFormat;
-    ((MediaFormat)localObject).<init>("AMR", 0);
+    Object localObject = new com.krecorder.call.recording.MediaFormat("AMR", 0);
     AMR = (MediaFormat)localObject;
-    localObject = new com/krecorder/call/recording/MediaFormat;
-    ((MediaFormat)localObject).<init>("WAV", k);
+    localObject = new com.krecorder.call.recording.MediaFormat("WAV", k);
     WAV = (MediaFormat)localObject;
-    localObject = new com/krecorder/call/recording/MediaFormat;
-    ((MediaFormat)localObject).<init>("AAC", j);
+    localObject = new com.krecorder.call.recording.MediaFormat("AAC", j);
     AAC = (MediaFormat)localObject;
-    localObject = new com/krecorder/call/recording/MediaFormat;
-    ((MediaFormat)localObject).<init>("MP3", i);
+    localObject = new com.krecorder.call.recording.MediaFormat("MP3", i);
     MP3 = (MediaFormat)localObject;
     localObject = new MediaFormat[4];
-    MediaFormat localMediaFormat = AMR;
-    localObject[0] = localMediaFormat;
-    localMediaFormat = WAV;
-    localObject[k] = localMediaFormat;
-    localMediaFormat = AAC;
-    localObject[j] = localMediaFormat;
-    localMediaFormat = MP3;
-    localObject[i] = localMediaFormat;
+    localObject[0] = AMR;
+    localObject[k] = WAV;
+    localObject[j] = AAC;
+    localObject[i] = MP3;
     a = (MediaFormat[])localObject;
   }
   
-  public static MediaFormat fromOrdinal(int paramInt)
-  {
-    try
-    {
+  public static MediaFormat fromOrdinal(int paramInt) {
+    try {
       localObject = values();
       localObject = localObject[paramInt];
     }
-    catch (Exception localException)
-    {
-      for (;;)
-      {
+    catch (Exception localException) {
+      for (;;) {
         Object localObject;
         MediaFormat localMediaFormat = AMR;
       }
@@ -49,18 +37,16 @@ public enum MediaFormat
     return (MediaFormat)localObject;
   }
   
-  public String getFileExtention()
-  {
+  public String getFileExtention() {
     Object localObject = a.a;
     int i = ordinal();
     int j = localObject[i];
-    switch (j)
-    {
+    switch (j) {
     default: 
       localObject = ".unk";
     }
-    for (;;)
-    {
+
+    for (;;) {
       return (String)localObject;
       localObject = ".amr";
       continue;

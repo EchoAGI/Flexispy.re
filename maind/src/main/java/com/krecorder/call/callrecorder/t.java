@@ -5,16 +5,13 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
 
-class t
-  extends Handler
-{
+class t extends Handler {
   public t(o paramo, Looper paramLooper)
   {
     super(paramLooper);
   }
   
-  public void handleMessage(Message paramMessage)
-  {
+  public void handleMessage(Message paramMessage) {
     int i = 2;
     int j = -3;
     boolean bool1 = false;
@@ -25,8 +22,7 @@ class t
     Object localObject2 = null;
     int m = 0;
     Object localObject7;
-    if (!bool2)
-    {
+    if (!bool2) {
       localObject7 = o.j(this.a);
       if ((localObject7 != null) && (localAudioRecord != null)) {
         break label70;
@@ -34,8 +30,8 @@ class t
       bool2 = o.h();
       if (!bool2) {}
     }
-    for (;;)
-    {
+
+    for (;;) {
       return;
       label70:
       int n;
@@ -66,14 +62,12 @@ class t
           if (!bool2) {
             break label261;
           }
-        }
-        catch (Exception localException2)
-        {
+        } catch (Exception e) {
           o localo2;
           bool2 = o.h();
         }
-        try
-        {
+
+        try {
           bool2 = o.g();
           if (bool2) {}
           localObject2 = this.a;
@@ -84,9 +78,7 @@ class t
           localObject2 = this.a;
           localObject2 = o.j((o)localObject2);
           ((e)localObject2).d();
-        }
-        catch (Exception localException3)
-        {
+        } catch (Exception e) {
           bool2 = o.h();
           if (!bool2) {
             continue;
@@ -96,8 +88,7 @@ class t
       localObject2 = this.a;
       ((o)localObject2).a(i);
       continue;
-      if (bool2)
-      {
+      if (bool2) {
         continue;
         label261:
         localObject7 = o.j(this.a);

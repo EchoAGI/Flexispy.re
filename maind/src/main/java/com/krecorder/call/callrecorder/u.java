@@ -2,9 +2,7 @@ package com.krecorder.call.callrecorder;
 
 import android.os.HandlerThread;
 
-class u
-  extends HandlerThread
-{
+class u extends HandlerThread {
   public u(o paramo, String paramString, int paramInt)
   {
     super(paramString, paramInt);
